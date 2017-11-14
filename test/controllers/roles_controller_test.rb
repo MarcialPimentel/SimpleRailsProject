@@ -17,7 +17,7 @@ class RolesControllerTest < ActionDispatch::IntegrationTest
 
   test "should create role" do
     assert_difference('Role.count') do
-      post roles_url, params: { role: { Rank: @role.Rank } }
+      post roles_url, params: { role: {Name: @role.Rank } }
     end
 
     assert_redirected_to role_url(Role.last)
@@ -34,7 +34,7 @@ class RolesControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should update role" do
-    patch role_url(@role), params: { role: { Rank: @role.Rank } }
+    patch role_url(@role), params: { role: {Name: @role.Rank } }
     assert_redirected_to role_url(@role)
   end
 

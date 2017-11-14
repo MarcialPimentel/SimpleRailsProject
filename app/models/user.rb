@@ -3,5 +3,5 @@ class User < ApplicationRecord
   has_many :channels
            has_many :posts
                     has_many :comments
-  validates :role_id, presence: true
+  validates :roles_id, presence: true
 end

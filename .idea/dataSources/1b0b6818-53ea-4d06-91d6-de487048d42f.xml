@@ -121,18 +121,18 @@
       <NotNull>1</NotNull>
       <SequenceIdentity>1</SequenceIdentity>
     </column>
-    <column id="34" parent="7" name="Rank">
+    <column id="34" parent="7" name="Name">
       <Position>1</Position>
-      <DataType>varchar|0</DataType>
+      <DataType>VARCHAR|0</DataType>
     </column>
     <column id="35" parent="7" name="created_at">
       <Position>2</Position>
-      <DataType>datetime|0</DataType>
+      <DataType>DATETIME|0</DataType>
       <NotNull>1</NotNull>
     </column>
     <column id="36" parent="7" name="updated_at">
       <Position>3</Position>
-      <DataType>datetime|0</DataType>
+      <DataType>DATETIME|0</DataType>
       <NotNull>1</NotNull>
     </column>
     <key id="37" parent="7">
@@ -202,7 +202,7 @@
       <DataType>DATETIME|0</DataType>
       <NotNull>1</NotNull>
     </column>
-    <column id="53" parent="11" name="role_id">
+    <column id="53" parent="11" name="roles_id">
       <Position>5</Position>
       <DataType>INTEGER|0</DataType>
     </column>
@@ -211,12 +211,12 @@
       <Primary>1</Primary>
     </key>
     <foreign-key id="55" parent="11" name="users_roles_id_fk">
-      <ColNames>role_id</ColNames>
+      <ColNames>roles_id</ColNames>
       <RefTableName>roles</RefTableName>
       <RefColNames>id</RefColNames>
     </foreign-key>
     <foreign-key id="56" parent="11" name="users_roles_id_fk">
-      <ColNames>role_id</ColNames>
+      <ColNames>roles_id</ColNames>
       <RefTableName>roles</RefTableName>
       <RefColNames>id</RefColNames>
     </foreign-key>
