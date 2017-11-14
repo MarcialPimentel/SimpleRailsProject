@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20171114221016) do
+ActiveRecord::Schema.define(version: 20171114205640) do
 
   create_table "channels", force: :cascade do |t|
     t.string "Name"
@@ -31,7 +31,7 @@ ActiveRecord::Schema.define(version: 20171114221016) do
   end
 
   create_table "roles", force: :cascade do |t|
-    t.string "Rank"
+    t.string "Name"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end

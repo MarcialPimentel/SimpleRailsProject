@@ -17,6 +17,7 @@
       <tr>
         <td><%= user.Username %></td>
         <td><%= user.Password %></td>
+        <td><%= user.Role.Name %></td>
 
         <td><%= link_to 'Show', user %></td>
         <td><%= link_to 'Edit', edit_user_path(user) %></td>
