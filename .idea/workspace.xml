@@ -2,180 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="081d9a2e-1600-407a-abd1-d671c08acac1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/ef50e055-3af1-447b-8968-bbe23e5dd155/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/ef50e055-3af1-447b-8968-bbe23e5dd155/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/ef50e055-3af1-447b-8968-bbe23e5dd155/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/ef50e055-3af1-447b-8968-bbe23e5dd155/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/ef50e055-3af1-447b-8968-bbe23e5dd155/_metadata_/metadata.values.at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/ef50e055-3af1-447b-8968-bbe23e5dd155/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/ef50e055-3af1-447b-8968-bbe23e5dd155/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/channels/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/concerns/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/concerns/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/assets/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/controllers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/files/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/helpers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/integration/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/mailers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/models/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/system/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.generators" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/ef50e055-3af1-447b-8968-bbe23e5dd155.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/ef50e055-3af1-447b-8968-bbe23e5dd155/storage.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SemesterProject.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/config/manifest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/cable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/channels.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/comments.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/posts.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/channels.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/comments.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/posts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/channels/application_cable/channel.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/channels/application_cable/connection.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/User/confirmations_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/User/omniauth_callbacks_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/User/passwords_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/User/registrations_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/User/sessions_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/User/unlocks_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/channels_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/comments_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/posts_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/channels_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/comments_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/posts_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jobs/application_job.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/mailers/application_mailer.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/application_record.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/channel.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/comment.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/post.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/user.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/channels/_channel.json.jbuilder" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/channels/_form.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/channels/edit.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/channels/index.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/channels/index.json.jbuilder" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/channels/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/channels/show.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/channels/show.json.jbuilder" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/comments/_comment.json.jbuilder" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/comments/_form.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/comments/edit.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/comments/index.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/comments/index.json.jbuilder" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/comments/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/comments/show.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/comments/show.json.jbuilder" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.text.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/posts/_form.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/posts/_post.json.jbuilder" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/posts/edit.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/posts/index.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/posts/index.json.jbuilder" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/posts/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/posts/show.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/posts/show.json.jbuilder" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/confirmations/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/mailer/confirmation_instructions.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/mailer/email_changed.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/mailer/password_change.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/mailer/reset_password_instructions.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/mailer/unlock_instructions.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/passwords/edit.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/passwords/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/registrations/edit.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/registrations/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/sessions/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/shared/_links.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/unlocks/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bundle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/rails" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/rake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/setup" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/update" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/yarn" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.ru" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/application.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/boot.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/cable.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/database.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environment.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/application_controller_renderer.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/cookies_serializer.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/devise.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/inflections.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/mime_types.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/locales/devise.en.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/locales/en.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/puma.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/secrets.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20171117230252_create_channels.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20171117230318_create_posts.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20171117230331_create_comments.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20171117230547_devise_create_users.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/schema.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/seeds.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/422.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/application_system_test_case.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/controllers/channels_controller_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/controllers/comments_controller_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/controllers/posts_controller_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/channels.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/comments.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/posts.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/users.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/models/channel_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/models/comment_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/models/post_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/models/user_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/system/channels_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/system/comments_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/system/posts_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -665,12 +492,12 @@
       <option name="presentableId" value="Default" />
       <updated>1510959148258</updated>
       <workItem from="1510959149594" duration="2118000" />
-      <workItem from="1510961663680" duration="184000" />
+      <workItem from="1510961663680" duration="430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2302000" />
+    <option name="totallyTimeSpent" value="2548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
