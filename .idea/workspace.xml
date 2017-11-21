@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ccfe8b8-8d35-4f8f-b606-4edbbc182b61" name="Default" comment="Nav working, Devise sign in/out &quot;working as intended.&quot;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/home_controller.rb" />
+    <list default="true" id="6ccfe8b8-8d35-4f8f-b606-4edbbc182b61" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f8293405-6c39-47cc-b285-12bc3fc16dfa/_metadata_/metadata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f8293405-6c39-47cc-b285-12bc3fc16dfa/_metadata_/metadata.keystream" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f8293405-6c39-47cc-b285-12bc3fc16dfa/_metadata_/metadata.keystream.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f8293405-6c39-47cc-b285-12bc3fc16dfa/_metadata_/metadata.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f8293405-6c39-47cc-b285-12bc3fc16dfa/_metadata_/metadata_i" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f8293405-6c39-47cc-b285-12bc3fc16dfa/_metadata_/metadata_i.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f8293405-6c39-47cc-b285-12bc3fc16dfa.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/home.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/home.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/home_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/index.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/controllers/home_controller_test.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -228,6 +239,19 @@
               <item name="SemesterProject" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SemesterProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SemesterProject" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SemesterProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SemesterProject" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SemesterProject" type="b2602c69:ProjectViewProjectNode" />
@@ -517,7 +541,7 @@
       <workItem from="1511120031774" duration="40000" />
       <workItem from="1511121966422" duration="6008000" />
       <workItem from="1511131174254" duration="275000" />
-      <workItem from="1511293308784" duration="9984000" />
+      <workItem from="1511293308784" duration="10253000" />
     </task>
     <task id="LOCAL-00001" summary="Another update, trying to get Clones to work">
       <created>1511124529205</created>
@@ -540,11 +564,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511302602547</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added &quot;home controller&quot;">
+      <created>1511303353029</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1511303353029</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27818000" />
+    <option name="totallyTimeSpent" value="28087000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -591,7 +622,8 @@
     <MESSAGE value="Another update, trying to get Clones to work" />
     <MESSAGE value="Got the Devise sign in as homepage" />
     <MESSAGE value="Nav working, Devise sign in/out &quot;working as intended.&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nav working, Devise sign in/out &quot;working as intended.&quot;" />
+    <MESSAGE value="Added &quot;home controller&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;home controller&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
