@@ -21,6 +21,13 @@ gem 'uglifier', '>= 1.3.0'
 
 gem 'devise', '~> 4.2', '>= 4.2.1'
 
+gem 'asciidoctor', '~> 1.5', '>= 1.5.4'
+
+gem 'cancancan', '~> 1.15'
+gem 'cocoon', '~> 1.2', '>= 1.2.9'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
+gem 'materialize-sass', '~> 0.96.1'
+
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
 
