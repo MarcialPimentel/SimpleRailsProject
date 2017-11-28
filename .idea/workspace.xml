@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ccfe8b8-8d35-4f8f-b606-4edbbc182b61" name="Default" comment="Added &quot;home controller&quot;">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="$PROJECT_DIR$/.idea/.generators" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="6ccfe8b8-8d35-4f8f-b606-4edbbc182b61" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SemesterProject.iml" afterPath="$PROJECT_DIR$/SemesterProject.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -476,7 +471,7 @@
       <workItem from="1511293308784" duration="10253000" />
       <workItem from="1511303656339" duration="776000" />
       <workItem from="1511901132911" duration="687000" />
-      <workItem from="1511901882598" duration="1384000" />
+      <workItem from="1511901882598" duration="1426000" />
     </task>
     <task id="LOCAL-00001" summary="Another update, trying to get Clones to work">
       <created>1511124529205</created>
@@ -506,11 +501,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511303353029</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added gems for:&#10;Cancancan&#10;jQuery&#10;Materialize&#10;Cocoon">
+      <created>1511903314433</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1511903314433</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30934000" />
+    <option name="totallyTimeSpent" value="30976000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
@@ -558,7 +560,8 @@
     <MESSAGE value="Got the Devise sign in as homepage" />
     <MESSAGE value="Nav working, Devise sign in/out &quot;working as intended.&quot;" />
     <MESSAGE value="Added &quot;home controller&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;home controller&quot;" />
+    <MESSAGE value="Added gems for:&#10;Cancancan&#10;jQuery&#10;Materialize&#10;Cocoon" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added gems for:&#10;Cancancan&#10;jQuery&#10;Materialize&#10;Cocoon" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
