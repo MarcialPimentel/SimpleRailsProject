@@ -1,7 +1,9 @@
 <p id="notice"><%= notice %></p>
 
 <h1>Posts</h1>
-
+<p>There are <%= @comments.count%>
+  <% @comments.each do |comment| %>
+  <% end %> comments</p>
 <table>
   <thead>
     <tr>

@@ -5,11 +5,13 @@ class ChannelsController < ApplicationController
   # GET /channels.json
   def index
     @channels = Channel.all
+    @posts = Post.all
   end
 
   # GET /channels/1
   # GET /channels/1.json
   def show
+    @channel_count=Channel.all.count
   end
 
   # GET /channels/new
@@ -71,4 +73,5 @@ class ChannelsController < ApplicationController
     def channel_params
       params.require(:channel).permit(:name)
     end
+
 end

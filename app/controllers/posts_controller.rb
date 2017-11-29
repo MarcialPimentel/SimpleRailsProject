@@ -5,11 +5,13 @@ class PostsController < ApplicationController
   # GET /posts.json
   def index
     @posts = Post.all
+    @comments = Comment.all
   end
 
   # GET /posts/1
   # GET /posts/1.json
   def show
+    @post_count=Post.all.count
   end
 
   # GET /posts/new

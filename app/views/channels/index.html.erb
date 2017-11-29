@@ -1,7 +1,9 @@
 <p id="notice"><%= notice %></p>
 
 <h1>Channels</h1>
-
+<p>There are <%= @posts.count%>
+<% @posts.each do |post| %>
+  <% end %> posts</p>
 <table>
   <thead>
     <tr>
