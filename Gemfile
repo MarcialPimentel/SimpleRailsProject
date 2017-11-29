@@ -27,6 +27,9 @@ gem 'cancancan', '~> 1.15'
 gem 'cocoon', '~> 1.2', '>= 1.2.9'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 gem 'materialize-sass', '~> 0.96.1'
+gem 'bcrypt', '~> 3.1.7'
+gem 'bcrypt-ruby', '3.1.0', :require => 'bcrypt'
+
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
@@ -41,9 +44,6 @@ gem 'jbuilder', '~> 2.5'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
-
-#gem 'bcrypt', '~> 3.1.7'
-
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
