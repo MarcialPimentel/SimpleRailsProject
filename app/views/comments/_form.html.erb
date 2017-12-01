@@ -14,6 +14,8 @@
   <div class="field">
     <%= form.label :content %>
     <%= form.text_field :content, id: :comment_content %>
+    <%= form.collection_select :user_id, User.all, :id, :email %>
+    <%= form.collection_select :post_id, Post.all, :id, :name %>
   </div>
 
   <div class="actions">

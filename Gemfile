@@ -30,6 +30,9 @@ gem 'materialize-sass', '~> 0.96.1'
 gem 'bcrypt', '~> 3.1.7'
 gem 'bcrypt-ruby', '3.1.0', :require => 'bcrypt'
 
+#For the csv
+gem 'roo', '~> 2.4'
+
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
