@@ -42,6 +42,7 @@
     <index id="18" parent="6" name="sqlite_autoindex_ar_internal_metadata_1">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>key</ColNames>
+      <ColumnCollations></ColumnCollations>
       <Unique>1</Unique>
     </index>
     <key id="19" parent="6">
@@ -141,6 +142,7 @@
     <index id="40" parent="10" name="sqlite_autoindex_schema_migrations_1">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>version</ColNames>
+      <ColumnCollations></ColumnCollations>
       <Unique>1</Unique>
     </index>
     <key id="41" parent="10">
@@ -246,10 +248,12 @@
     </column>
     <index id="65" parent="13" name="index_users_on_email">
       <ColNames>email</ColNames>
+      <ColumnCollations></ColumnCollations>
       <Unique>1</Unique>
     </index>
     <index id="66" parent="13" name="index_users_on_reset_password_token">
       <ColNames>reset_password_token</ColNames>
+      <ColumnCollations></ColumnCollations>
       <Unique>1</Unique>
     </index>
     <key id="67" parent="13">

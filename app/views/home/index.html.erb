@@ -19,4 +19,17 @@
       </tr>
   <% end %>
   </tbody>
+
+
+  <h2>Import Products</h2>
+  <tbody>
+  <%= form_tag import_user_path, multipart: true do %>
+    <%= file_field_tag :file %>
+    <%= submit_tag "Import" %>
+  <% end %>
+
+
+
+
+  </tbody>
 </table>
