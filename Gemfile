@@ -30,6 +30,8 @@ gem 'materialize-sass', '~> 0.96.1'
 gem 'bcrypt', '~> 3.1.7'
 gem 'bcrypt-ruby', '3.1.0', :require => 'bcrypt'
 
+gem "iconv", "~> 1.0.3"
+
 #For the csv
 gem 'roo', '~> 2.4'
 
