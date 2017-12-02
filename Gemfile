@@ -9,7 +9,7 @@ end
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+gem 'pg', '~> 0.18.4'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
@@ -29,8 +29,6 @@ gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 gem 'materialize-sass', '~> 0.96.1'
 gem 'bcrypt', '~> 3.1.7'
 gem 'bcrypt-ruby', '3.1.0', :require => 'bcrypt'
-
-gem 'iconv', '~> 1.0', '>= 1.0.4'
 
 #For the csv
 gem 'roo', '~> 2.4'
