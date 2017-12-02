@@ -33,6 +33,9 @@ gem 'bcrypt-ruby', '3.1.0', :require => 'bcrypt'
 #For the csv
 gem 'roo', '~> 2.4'
 
+
+gem 'iconv', '~> 1.0', '>= 1.0.4'
+
 # For creating seeds from existing data
 gem 'seed_dump', '~> 3.2.4'
 
