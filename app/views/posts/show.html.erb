@@ -1,8 +1,20 @@
 <p id="notice"><%= notice %></p>
 
 <p>
-  <strong>Name:</strong>
+  <h5>Comments:</h5>
+<p>
   <%= @post.name %>
+  <% @comments.each do |comment| %>
+      <tr>
+        <td><%= comment.content %></td>
+        <td><%= link_to 'Show', comment %></td>
+        <td><%= link_to 'Edit', edit_post_path(comment) %></td>
+        <td><%= link_to 'Destroy', comment, method: :delete, data: {confirm: 'Are you sure?' } %></td>
+        <p> </p>
+      </tr>
+  <% end %>
+
+
 </p>
 
 <%= link_to 'Edit', edit_post_path(@post) %> |

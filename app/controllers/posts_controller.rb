@@ -12,6 +12,7 @@ class PostsController < ApplicationController
   # GET /posts/1.json
   def show
     @post_count=Post.all.count
+    @comments = Comment.all
   end
 
   # GET /posts/new
